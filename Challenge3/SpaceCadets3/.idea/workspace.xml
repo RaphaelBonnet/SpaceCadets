@@ -31,13 +31,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last.edited.regexp": "Sample Text",
     "last_opened_file_path": "C:/Users/raphb/OneDrive/Documents/GitHub/SpaceCadets/Challenge3/SpaceCadets3"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SpaceCadets2" />
+      <module name="SpaceCadets3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,7 +60,7 @@
       <workItem from="1666809312641" duration="10586000" />
       <workItem from="1667222250278" duration="2489000" />
       <workItem from="1667678534788" duration="607000" />
-      <workItem from="1667819958166" duration="340000" />
+      <workItem from="1667820302137" duration="5898000" />
     </task>
     <servers />
   </component>
@@ -76,5 +77,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

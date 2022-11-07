@@ -1,0 +1,9 @@
+clear X;
+incr X;
+incr X;
+//Hello World
+incr X;
+while X not 0 do;
+   decr X;
+end;
+idiot

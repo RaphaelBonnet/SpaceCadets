@@ -1,0 +1,9 @@
+clear A
+incr A
+B = A + 15
+incr A
+incr A
+incr A
+C = B - A
+D = C / A
+D = D * 3
